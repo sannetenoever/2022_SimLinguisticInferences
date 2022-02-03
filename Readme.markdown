@@ -1,4 +1,4 @@
-### Simulations of models that create 1-2-4 Hz pattern.
+# Simulations of models that create 1-2-4 Hz pattern.
 
 ## Neural Berkeley Parser
 
@@ -8,9 +8,9 @@ We presented the pre-trained Neural Berkeley Parser ([github parser](https://git
 
 We show that by having any systematic response to a class of stimuli you can get a 1-2-4 Hz response. Related code is in the SSVEP folder.
 
-# Notes
+### Notes
 
 This repository consist of the final code used. Original and more elaborate code can also be found [here](https://github.com/KarthikeyaKaushik/rnn-oscillations)
 
-# Reference
+### Reference
 Ding, N., Melloni, L., Zhang, H., Tian, X., & Poeppel, D. (2016). Cortical tracking of hierarchical linguistic structures in connected speech. Nature Neuroscience, 19(1), 158-164.  
